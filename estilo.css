@@ -2,8 +2,12 @@ body{
     color: blue;
 }
 .username{
-    color: red;
-    padding: 20px;
+    color:black;
+    padding: 10px;
+}
+.name{
+    color:black;
+    padding: 10px;
 }
 .btn{
     color:black;
